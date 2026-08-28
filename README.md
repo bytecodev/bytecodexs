@@ -41,6 +41,12 @@ No license key required.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bytecodexs/bytecodexs/main/bytcode.lua"))()
 ```
 
+## Codex Alpha AI Tools
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bytecodev/bytecodexs/main/codexalpha.lua"))()
+```
+
 Free access may have different availability or limits depending on the supported script.
 
 ## Notes
