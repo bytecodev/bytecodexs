@@ -28,7 +28,7 @@ Requires an active ByteCodex license key.
 
 ```lua
 _G.Key = "sk_bc.xxxxxxxxx" -- put your license key here
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bytecodexs/bytecodexs/main/bytecode.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bytecodev/bytecodexs/main/bytecode.lua"))()
 ```
 
 Your license key is linked to your ByteCodex account and supported devices.
@@ -38,7 +38,7 @@ Your license key is linked to your ByteCodex account and supported devices.
 No license key required.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bytecodexs/bytecodexs/main/bytcode.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bytecodev/bytecodexs/main/bytecode.lua"))()
 ```
 
 ## Codex Alpha AI Tools
